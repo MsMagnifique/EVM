@@ -1,5 +1,5 @@
 // Program to make a voting machine using LCD
-// Submitted by SANGEETHA P,AMITHA AJITH,PRIYA P S
+// Submitted by SANGEETHA P,AMITHA AJITH,PRIYA P.S
 #include<reg51.h>
 #define msec 50
 #define lcd_data_str_pin P2
